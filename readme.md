@@ -1,3 +1,3 @@
 ## students-ci-cd
 
-Projeto desenvolvido com pratica sobre como utilizar docker com github actions.
+Projeto desenvolvido como pratica sobre como utilizar docker com github actions em pipeline.
